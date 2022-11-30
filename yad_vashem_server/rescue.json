@@ -1,0 +1,300 @@
+﻿
+  {
+    "title": "RESCUE",
+    "url": null,
+    "urlTitle": null,
+    "type": "detailsMapLinks",
+    "elements": {
+      "details": [
+        {
+          "title": "placeInWar",
+          "value": [
+            {
+              "id": "",
+              "value": "Krakow, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Zablocie, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Bruennlitz, Policka, Bohemia, Czechoslovakia",
+              "url": null
+            }
+          ]
+        },
+        {
+          "title": "rescuePlace",
+          "value": [
+            {
+              "id": "",
+              "value": "Zablocie, Krakow, Krakow, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Zablocie, Camp, Poland",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Bruennlitz, Camp, Czechoslovakia",
+              "url": null
+            }
+          ]
+        },
+        {
+          "title": "rescueMode",
+          "value": [
+            {
+              "id": "",
+              "value": "Supplying basic goods",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Providing forged documents",
+              "url": null
+            },
+            {
+              "id": "",
+              "value": "Other",
+              "url": null
+            }
+          ]
+        }
+      ],
+      "map": {
+        "pointers": [
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "50.065514051349126",
+            "longitude": "19.946365356445312",
+            "title": "Krakow, Krakow, Krakow, Poland"
+          },
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "50.06465",
+            "longitude": "19.94498",
+            "title": "Zablocie, Krakow, Krakow, Poland"
+          },
+          {
+            "icon": "/assets/br.svg",
+            "latitude": "49.6274234",
+            "longitude": "16.5219042",
+            "title": "Bruennlitz, Policka, Bohemia, Czechoslovakia"
+          }
+        ],
+        "places": [
+          {
+            "lif": "b",
+            "places": [ "Krakow", " Krakow", " Krakow", " Poland" ],
+            "point": "50.065514051349126,19.946365356445312"
+          },
+          {
+            "lif": "b",
+            "places": [ "Zablocie", " Krakow", " Krakow", " Poland" ],
+            "point": "50.06465,19.94498"
+          },
+          {
+            "lif": "b",
+            "places": [ "Bruennlitz", " Policka", " Bohemia", " Czechoslovakia" ],
+            "point": "49.6274234,16.5219042"
+          },
+          {
+            "lif": "r",
+            "places": [ "Krakow", " Krakow", " Krakow", " Poland" ],
+            "point": "50.065514051349126,19.946365356445312"
+          },
+          {
+            "lif": "r",
+            "places": [ "Zablocie", " Krakow", " Krakow", " Poland" ],
+            "point": "50.06465,19.94498"
+          },
+          {
+            "lif": "r",
+            "places": [ "Bruennlitz", " Policka", " Bohemia", " Czechoslovakia" ],
+            "point": "49.6274234,16.5219042"
+          }
+        ]
+      },
+      "links": {
+        "title": "Links to Library",
+        "value": [
+          {
+            "id": "0011775",
+            "value": "רשימת שינדלר",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0011775"
+          },
+          {
+            "id": "0089224",
+            "value": "Oskar Schindler, ...immer neue Geschichten",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0089224"
+          },
+          {
+            "id": "0120671",
+            "value": "Oskar Schindler w oczach uratowanych przez siebie krakowskich Zydow",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0120671"
+          },
+          {
+            "id": "0122594",
+            "value": "Searching for Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=0122594"
+          },
+          {
+            "id": "10191470",
+            "value": "The Jewish fellow-citizens of Cracow rescued  by Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10191470"
+          },
+          {
+            "id": "10459789",
+            "value": "Oskar  Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10459789"
+          },
+          {
+            "id": "10595171",
+            "value": "The boy on the wooden box\r\n",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=10595171"
+          },
+          {
+            "id": "11172885",
+            "value": "Aleksander i Krystyna Allerhand",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172885"
+          },
+          {
+            "id": "11172933",
+            "value": "Marcel Goldman",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172933"
+          },
+          {
+            "id": "11172938",
+            "value": "Polsko-izraelskie losy Tulo Schenirera i jego rodziny",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11172938"
+          },
+          {
+            "id": "11450498",
+            "value": "Les ombres du passe",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11450498"
+          },
+          {
+            "id": "11675232",
+            "value": "Spiel mir das Lied vom Leben",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11675232"
+          },
+          {
+            "id": "11698653",
+            "value": "La liste de Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11698653"
+          },
+          {
+            "id": "11996345",
+            "value": "La quete de Schindlers",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=11996345"
+          },
+          {
+            "id": "12588328",
+            "value": "L'etoile jaune et le manteau rouge",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12588328"
+          },
+          {
+            "id": "12632352",
+            "value": "Holocaust saviors",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12632352"
+          },
+          {
+            "id": "12770903",
+            "value": "הנער על ארגז העץ",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=12770903"
+          },
+          {
+            "id": "13202776",
+            "value": "נדרתי נדר לספר",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13202776"
+          },
+          {
+            "id": "13226405",
+            "value": "אוסקר שינדלר - סיפור משפחתי",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13226405"
+          },
+          {
+            "id": "13243050",
+            "value": "Schindlerjev vojak",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13243050"
+          },
+          {
+            "id": "13248356",
+            "value": "La lista de Schindler\r\n",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13248356"
+          },
+          {
+            "id": "13779770",
+            "value": "מאפלה לזריחה",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=13779770"
+          },
+          {
+            "id": "14118170",
+            "value": "Mietek Pemper",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14118170"
+          },
+          {
+            "id": "14310674",
+            "value": "El chico sobre la caja de madera",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14310674"
+          },
+          {
+            "id": "14375382",
+            "value": "Un baiat pe lista lui Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14375382"
+          },
+          {
+            "id": "14375385",
+            "value": "Lista lui Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=14375385"
+          },
+          {
+            "id": "15036424",
+            "value": "Schindler's list",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=15036424"
+          },
+          {
+            "id": "7190251",
+            "value": "Oskar Schindler in the eyes of Cracovian Jews rescued by him",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=7190251"
+          },
+          {
+            "id": "7575904",
+            "value": "Schindler's list",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=7575904"
+          },
+          {
+            "id": "9113795",
+            "value": "Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9113795"
+          },
+          {
+            "id": "9366911",
+            "value": "The shadows behind me",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9366911"
+          },
+          {
+            "id": "9566006",
+            "value": "Even to the edge of doom",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9566006"
+          },
+          {
+            "id": "9752762",
+            "value": "Oskar Schindler",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9752762"
+          },
+          {
+            "id": "9766790",
+            "value": "Dr. Jonas Dresner",
+            "url": "https://library.yadvashem.org/index.html?language=en&searchIn=library&strSearch=9766790"
+          }
+        ]
+      }
+    }
+  }
