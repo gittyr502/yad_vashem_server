@@ -22,8 +22,4 @@
     <EditorConfigFiles Remove="C:\Users\user\Videos\yad_vashem\yad_vashem_server\yad_vashem_server\.editorconfig" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="C:\Users\user\Videos\yad_vashem\yad_vashem_server\yad_vashem_server\.editorconfig" />
-  </ItemGroup>
-
 </Project>
